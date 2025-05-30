@@ -1,0 +1,25 @@
+{
+  "processed_files": {
+    "C:\\Users\\An\\Desktop\\datamining\\RAG\\docs\\cardiology-explained.pdf": {
+      "file_hash": "8495d16a1bbb096c6c45f985447088cd",
+      "chunk_count": 573,
+      "processed_date": "1748576201.5249064",
+      "file_size": 1949314
+    }
+  },
+  "collection_stats": {
+    "total_entities": 573,
+    "collection_name": "cardiology_rag",
+    "schema": {
+      "fields": [
+        "id",
+        "text",
+        "embedding",
+        "source",
+        "page_num",
+        "chunk_id"
+      ],
+      "description": "Cardiology RAG collection for storing document embeddings"
+    }
+  }
+}
